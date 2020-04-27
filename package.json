@@ -4,6 +4,7 @@
   "private": true,
   "main": "public/electron.js",
   "dependencies": {
+    "@ant-design/icons": "^4.0.6",
     "@coreui/coreui": "^2.1.16",
     "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.2.0",
     "@coreui/coreui-pro": "^2.1.7",
@@ -24,6 +25,7 @@
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
+    "node-binance-api": "^0.10.7",
     "node-sass": "^4.13.1",
     "popper.js": "^1.16.0",
     "react": "^16.12.0",

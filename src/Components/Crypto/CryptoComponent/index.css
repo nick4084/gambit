@@ -1,0 +1,23 @@
+.configOption__container{
+    outline: 1px solid rgba(0, 0, 0, 0.2);
+    border-collapse: collapse;
+    padding: 10px;
+    min-height: 60px;
+}
+
+.flex{
+    display: flex;
+}
+
+.multi-row{
+    padding-top: 5px;
+}
+
+.config__row{
+    padding-top: 12px;
+}
+
+.value-input__container{
+    margin: 0 8px;
+    width: 100px;
+}
